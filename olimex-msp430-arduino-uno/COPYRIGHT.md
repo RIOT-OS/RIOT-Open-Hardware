@@ -14,6 +14,7 @@ Library Files
 | File                                                                  | License (SPDX)    | Copyright Owner                           | Link                                                                              | Comment                                                   |
 |:--------------------------------------------------------------------- |:----------------- |:----------------------------------------- |:--------------------------------------------------------------------------------- |:--------------------------------------------------------- |
 | `custom_lib.pretty/Arduino_Uno_R3_Shield.kicad_mod`                   | CC-BY-SA-4.0      | https://github.com/Alarm-Siren            | https://github.com/Alarm-Siren/arduino-kicad-library                              | Minor Modifications from Upstream                         |
+| `custom_lib.pretty/RIOT-Logo.kicad_mod`                               | ?                 | https://github.com/RIOT-OS                | https://github.com/RIOT-OS                                                        | Official RIOT Logo                                        |
 
 Library Symbols (in `lib.kicad_sym`)
 ------------------------------------
